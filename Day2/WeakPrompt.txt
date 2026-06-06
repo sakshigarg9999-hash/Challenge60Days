@@ -1,0 +1,232 @@
+Explain me basics of AI
+
+AI (Artificial Intelligence) is the field of creating computer systems that can perform tasks that normally require human intelligence, such as understanding language, recognizing images, learning from data, solving problems, and making decisions.
+
+## 1. What is AI?
+
+Think of AI as a system that learns patterns from data and uses those patterns to make predictions or take actions.
+
+Examples:
+
+* Face recognition on your phone
+* Voice assistants like Alexa
+* Google Maps route suggestions
+* Netflix and YouTube recommendations
+* ChatGPT answering questions
+
+## 2. Key Types of AI
+
+### Narrow AI (Today's AI)
+
+Designed for specific tasks.
+
+Examples:
+
+* ChatGPT for conversations
+* Alexa for voice commands
+* Self-driving car systems
+* Email spam filters
+
+Almost all AI used today is Narrow AI.
+
+### General AI (Future Goal)
+
+An AI that can perform any intellectual task a human can do.
+
+This does not exist yet.
+
+## 3. How Does AI Learn?
+
+AI learns from data.
+
+Example:
+If you show an AI thousands of pictures of cats and dogs:
+
+* It identifies patterns
+* Learns features like ears, eyes, fur shape
+* Predicts whether a new image contains a cat or dog
+
+This process is called **Machine Learning (ML)**.
+
+## 4. AI → Machine Learning → Deep Learning
+
+Think of them as nested circles:
+
+```
+Artificial Intelligence
+    └── Machine Learning
+            └── Deep Learning
+```
+
+### Artificial Intelligence
+
+The broad field.
+
+### Machine Learning
+
+Systems learn from data instead of being explicitly programmed.
+
+Example:
+Rather than coding every rule for spam emails, the system learns from examples of spam and non-spam emails.
+
+### Deep Learning
+
+A type of machine learning inspired by the human brain using neural networks.
+
+Used for:
+
+* ChatGPT
+* Image recognition
+* Speech recognition
+* Self-driving cars
+
+## 5. What is a Neural Network?
+
+A neural network is a mathematical model inspired by how neurons work in the brain.
+
+It:
+
+1. Receives inputs
+2. Processes information through layers
+3. Produces an output
+
+Example:
+
+```
+Photo → Neural Network → "Dog"
+```
+
+Modern AI systems may have billions of parameters that help them learn complex patterns.
+
+## 6. What is Generative AI?
+
+Generative AI creates new content.
+
+Examples:
+
+* Writing text
+* Creating images
+* Generating code
+* Producing music
+* Creating videos
+
+Examples of tools:
+
+* [ChatGPT](https://chatgpt.com?utm_source=chatgpt.com)
+* [Claude](https://claude.ai?utm_source=chatgpt.com)
+* [Google Gemini](https://gemini.google.com?utm_source=chatgpt.com)
+
+## 7. What is an LLM?
+
+LLM stands for Large Language Model.
+
+Examples:
+
+* ChatGPT
+* Claude
+* Gemini
+
+These models are trained on enormous amounts of text and learn:
+
+* Grammar
+* Facts
+* Reasoning patterns
+* Writing styles
+
+When you type a prompt, the model predicts the most appropriate next words based on what it learned.
+
+## 8. Important AI Terms
+
+### Prompt
+
+The instruction you give the AI.
+
+Example:
+
+> "Write a 5-day itinerary for Goa."
+
+### Model
+
+The AI system that processes your prompt.
+
+### Training Data
+
+The information used to teach the AI.
+
+### Parameters
+
+Internal values that store what the model has learned.
+
+Modern models can have billions of parameters.
+
+### Fine-Tuning
+
+Further training an AI model for a specific task.
+
+Example:
+Training a general model specifically for medical or legal use.
+
+## 9. Where AI Is Used Today
+
+### Business
+
+* Customer support
+* Sales automation
+* Report generation
+
+### Healthcare
+
+* Disease detection
+* Medical image analysis
+
+### Education
+
+* Personalized tutoring
+* Content creation
+
+### Software Development
+
+* Code generation
+* Debugging assistance
+
+### Daily Life
+
+* Smart assistants
+* Recommendations
+* Translation
+
+## 10. What AI Cannot Do Perfectly
+
+AI can:
+
+* Make mistakes
+* Generate incorrect information
+* Be biased by training data
+* Lack true human understanding and emotions
+
+Human judgment is still important, especially in medicine, law, finance, and safety-critical decisions.
+
+## A Simple Analogy
+
+Imagine teaching a child to identify apples:
+
+1. Show thousands of apples.
+2. The child learns common patterns.
+3. Show a new fruit.
+4. The child predicts whether it's an apple.
+
+AI learns in a similar way—but with vastly more data and computation.
+
+### Learning Path for Beginners
+
+If you're starting from scratch:
+
+1. Understand AI fundamentals
+2. Learn prompt engineering
+3. Learn how LLMs work
+4. Explore AI tools (ChatGPT, Claude, Gemini)
+5. Learn basic Python
+6. Study Machine Learning concepts
+7. Build small AI projects
+
+Since you're joining a Claude 60-day challenge, I can also create a **60-day AI learning roadmap for non-technical professionals**, covering AI, prompting, agents, automation, and real-world projects.
